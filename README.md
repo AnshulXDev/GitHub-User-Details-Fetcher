@@ -48,3 +48,11 @@ Depending on the available data, the program can display:
 ```bash
 pip install requests
 ```
+
+2. Run the Program
+
+3. Enter input GitHub Username:
+
+```code
+Enter GitHub Username: example123
+```
