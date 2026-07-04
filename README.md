@@ -1,58 +1,22 @@
-# 📦 GitHub User Details Fetcher
+# 🚀 What's New
 
-A simple Python project that fetches and displays public GitHub user information using the GitHub API.
-
-This project demonstrates how to work with APIs, send HTTP requests, process JSON responses, and display useful data in a clean format.
+This document highlights the major changes and improvements introduced in each version of the project.
 
 ---
 
-## ✨ Features
+# 🌟 Version 2.0 (Major Update)
 
-- Fetch GitHub user information by username
-- Display public profile details
-- Simple command-line interface
-- Uses real-time data from the GitHub API
+## ✨ New Features
 
----
+- 👤 GitHub User Details Viewer
+- 📦 Repository Search
+- 📂 Repository Explorer
+- 🔀 Pull Request Viewer
+- 🌿 Branch Viewer
+- 👥 Followers Viewer
 
-## 📋 Information Retrieved
+## ⚡ Improvements
 
-Depending on the available data, the program can display:
-
-- Username
-- Name
-- Bio
-- Followers
-- Following
-- Public Repositories
-- Profile URL
-- Location
-- Company
-- Social Accounts
-- And more
-
----
-
-## 🛠 Technologies Used
-
-- Python
-- GitHub REST API
-- Requests Library
-
----
-
-## ▶️ How to Run
-
-1. Install the required package:
-
-```bash
-pip install requests
-```
-
-2. Run the Program
-
-3. Enter input GitHub Username:
-
-```code
-Enter GitHub Username: example123
-```
+- Improved CLI interface and output formatting.
+- Better error handling for invalid usernames and repositories.
+- Organized code structure for easier maintenance.
