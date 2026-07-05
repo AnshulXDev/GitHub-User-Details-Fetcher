@@ -1,6 +1,6 @@
 # 🚀 What's New
 
-This document highlights the major changes and improvements introduced in each version of the project.
+This document highlights the major changes and improvements introduced in new version of the project.
 
 ---
 
