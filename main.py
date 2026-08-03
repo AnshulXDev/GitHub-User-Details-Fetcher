@@ -1,3 +1,5 @@
+# @codedrust
+
 import requests
 
 while True:
