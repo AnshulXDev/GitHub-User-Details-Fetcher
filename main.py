@@ -82,7 +82,7 @@ while True:
 
     elif choice == 3:
 
-        repos = input("Enter Repository: ")
+        repos = input("Search Repository: ")
         url = f"https://api.github.com/search/repositories?q={repos}"
 
         response = requests.get(url)
